@@ -1,6 +1,7 @@
 # Fake News Classification
 
 [Justin Panagakis](https://github.com/jpanagakis2309)
+
 [Yousef Suleiman](https://github.com/yojoecapital/)
 
 ## Introduction
